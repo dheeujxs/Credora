@@ -4,7 +4,11 @@
   "main": "index.js",
   "scripts": {
     "dev": "ts-node-dev --files src/index.ts",
+<<<<<<< HEAD
     "build":"tsc",
+=======
+      "build": "tsc",
+>>>>>>> c367f5fb172b345f788a3e50378566c4156e27e6
     "start": "node dist/index.js"
   },
   "keywords": [],
